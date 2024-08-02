@@ -17,7 +17,7 @@ This project is an assignment for the DATA 1200 course, focusing on data analysi
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/DATA1200-Assignment4.git
+    git clone https://github.com/thihanyinyi/Data-1202.git
     ```
 
 2. **Navigate to the project directory:**
